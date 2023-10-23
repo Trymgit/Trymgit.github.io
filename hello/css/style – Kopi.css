@@ -1,0 +1,94 @@
+div {
+    border: black 1px solid; 
+    margin: 5px;
+
+}
+
+.main{}
+.topp{
+    height: 105px;
+}
+#logobilde{
+    height: 100px;
+}
+
+.nav li{
+    display:inline; 
+}
+.nav a { 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 10px;
+
+
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+}
+    /*div{
+    border: black 1px solid;
+    margin: 5px;
+ 
+}
+*/
+ 
+.artikkelbilde{
+    max-width: 800px;
+}
+ 
+.artikkelbilde img{
+ width:100%
+}
+ 
+.main{
+    width: 100%;
+    margin:auto;
+}
+ 
+.topp{
+    height: 100px;
+}
+ 
+#logobilde{
+    height:100px;
+}
+ 
+.nav li{
+    display:inline;
+}
+ 
+.nav a{
+    /*padding-left: 20px;
+    padding-right: 20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    */
+    padding: 10px 20px 10px 20px ;
+ 
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+.nav a:hover{
+    text-decoration: underline;
+    background-color: white;
+    color: black;
+}
+ 
+.nav{
+    background-color: black;
+    color: white;    
+}
+ 
+.innhold{
+    display: flex;
+    min-height: 300px;
+    margin: 10px;
+}
+ 
+.footer{
+    padding: 20px;
+    background-color: black;
+    color:white;
+ 
+}

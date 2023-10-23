@@ -1,0 +1,49 @@
+div {
+    border: black 1px solid; 
+    margin: 5px;
+
+}
+
+.main{}
+.topp{
+    height: 105px;
+}
+#logobilde{
+    height: 100px;
+}
+
+.nav li{
+    display:inline; 
+}
+.nav a { 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 10px;
+
+
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+
+}
+.nav a:hover{
+    text-decoration: underline;
+    background-color: white;
+    color: black;
+}
+.nav{
+     background-color: black;
+    color: white;
+    }
+
+innhold{
+    min-height: 500px;
+}
+.footer{
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+}
+
+
