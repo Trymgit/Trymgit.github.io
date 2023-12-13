@@ -1,0 +1,32 @@
+.artikeltext {
+  border:  black 2px solid; 
+  padding:  5px;
+
+
+}
+
+body {
+  background-color: white;
+
+
+}
+
+.Trym {
+  border: #000 2px solid;
+  padding: 7px;
+  width: 50%;
+
+
+}
+
+
+
+.footer {
+  border: black 2px solid;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+  
+}
+
