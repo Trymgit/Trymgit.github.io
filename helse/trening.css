@@ -1,0 +1,39 @@
+/* Generelle stiler */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #f9f9f9;
+  padding: 20px;
+  text-align: center;
+}
+
+.paragraf {
+  padding: 20px;
+}
+
+.dino, .diamantbryllup, .rubinbryllup, .uups, .barn, .nei {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+}
+
+/* Stiler for ulike aldersgrupper */
+.dino h4, .diamantbryllup h4, .rubinbryllup h4, .uups h4, .barn h4, .nei h4 {
+  color: #333;
+}
+
+.dino p, .diamantbryllup p, .rubinbryllup p, .uups p, .barn p, .nei p {
+  line-height: 1.6;
+}
+
+/* Overskrifter for aldersgrupper */
+.dino h4, .diamantbryllup h4, .rubinbryllup h4, .uups h4, .barn h4, .nei h4 {
+  color: #333;
+}
+
+/* Styling for ulike aldersgrupper etter behov */

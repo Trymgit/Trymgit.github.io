@@ -1,0 +1,55 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header styles */
+.header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Paragraph styles */
+.paragraf {
+  padding: 20px;
+  text-align: center;
+}
+
+.paragraf h2 {
+  margin-bottom: 10px;
+}
+
+.paragraf h4 {
+  margin-bottom: 20px;
+}
+
+/* Age group styles */
+.dino, .diamantbryllup, .rubinbryllup, .uups, .barn, .nei {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.dino h3, .diamantbryllup h3, .rubinbryllup h3, .uups h3, .barn h3, .nei h3 {
+  color: #3498db;
+  margin-bottom: 10px;
+}
+
+.dino p, .diamantbryllup p, .rubinbryllup p, .uups p, .barn p, .nei p {
+  color: #555;
+}
